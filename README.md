@@ -1,4 +1,4 @@
-# Moodle Downloader
+# Report Downloader
 
 This project is a Streamlit-based web application for downloading student report files from a Moodle platform. Users can log in, specify a target URL, and download all collected student files as a ZIP file.
 
